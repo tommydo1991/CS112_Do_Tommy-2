@@ -48,3 +48,7 @@ public class HW5 {
     }
     
 }
+
+
+//enter 2 if had breakfast
+//Only ask this if user is thristy, please
